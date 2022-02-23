@@ -4,7 +4,7 @@ A workthrough of the code examples from [Fluent Python, by Luciano Ramalho (2. E
 
 This edition of Fluent Python uses Python 3.10.
 
-| Part                | Chapter                               | Contents                                                                         |
-|---------------------|---------------------------------------|----------------------------------------------------------------------------------|
-| I. Prologue         | [1. The Python Data Model](Chapter 1) | [french_deck.py](Chapter 1/french_deck.py), [vector2d.py](Chapter 1/vector2d.py) |
+| Part                | Chapter                                  | Contents                                                                               |
+|---------------------|------------------------------------------|----------------------------------------------------------------------------------------|
+| I. Prologue         | [1. The Python Data Model](/Chapter%201) | [french_deck.py](/Chapter%201/french_deck.py), [vector2d.py](/Chapter%201/vector2d.py) |
 
